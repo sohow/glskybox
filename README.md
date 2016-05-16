@@ -16,7 +16,7 @@ A simple python tool for converting skysphere texture to skybox.
     Convert skydome texture to skybox
     
     positional arguments:
-      FILE                  source file name
+      FILE                  source file name(宽高像素值必须是2的n次方)
     
     optional arguments:
       -h, --help            show this help message and exit
